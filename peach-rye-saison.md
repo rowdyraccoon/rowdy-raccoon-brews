@@ -40,11 +40,12 @@ Wort
 ###Steep
 
 1. In a large pot bring 15 L of water to 70 degrees celsius.
-2. Once the water has reached a temperature of 70 degrees celsius, add the bag of Caramel malt. Let it steep for 30 mins then remove.
+2. Once the water has reached a temperature of 70 degrees celsius, add the bag of Caramel and Rye malt. Let it steep for 30 mins then remove.
+3. Bring the water to a boil.
 
 ###Boil
 
-1. (30 mins) After the malt has finished steeping, remove the hop bag from the wort. At this time, add the DME to the boil and stir until the chunks have been mostly dissolved. Add one of the hop bags with 0.25 oz Nelson Sauvin hops. 
+1. (30 mins) After the water has reached a boil, add the 4 lbs of DME and stir until the chunks have been mostly dissolved. Add one of the hop bags with 0.25 oz Nelson Sauvin hops. 
 2. (15 mins) After 15 mins have passed, add the other hop bag with 0.25 oz Nelson Sauvin hops.
 3. (10 mins) After 5 mins have passed, add the last bag of 0.5 oz Nelson Sauvin hops. At this time add the grilled peaches, 1.5 tsp pectin enzyme and the Irish moss.
 4. (0 mins) Remove wort from heat source and add to cool water bath to reduce temperature. Wait until temperature reaches around 27 degrees celsius.
